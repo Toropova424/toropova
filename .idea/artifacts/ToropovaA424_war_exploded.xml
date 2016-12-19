@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ToropovaA424:war exploded">
+    <output-path>$PROJECT_DIR$/target/Toropova</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ToropovaA424" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/Toropova/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="ToropovaA424/web/Web" />
+    </root>
+  </artifact>
+</component>
